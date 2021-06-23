@@ -52,7 +52,7 @@ void init_msm_properties(unsigned long msm_id, unsigned long msm_ver, char *boar
     property_set("ro.product.device", "vf1497");
     property_set("ro.build.product", "vf1497");
     property_set("ro.telephony.default_network", "22");
-    property_set("ro.build.description", "VF-1497-user 5.0.2 LRX22L 8916 release-keys");
-    property_set("ro.build.fingerprint", "Vodafone/VF-1497/vf1497:5.0.2/VodafoneVF1497/8916:user/release-keys");
+    property_set("ro.build.description", "pop10-user 5.0.2 LRX22G/vPFE-0 release-keys");
+    property_set("ro.build.fingerprint", "Vodafone/VF-1497/Vodafone_Tab_Prime:5.0.2/vPFE-0:user/release-keys");
    
 }

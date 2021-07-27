@@ -1,4 +1,4 @@
 
 PRODUCT_MAKEFILES := \
 	$(LOOCAL_DIR)/cm.mk \
-	$(LOCAL_DIR)/vf1497.mk
+	$(LOCAL_DIR)/vf1497.mk \

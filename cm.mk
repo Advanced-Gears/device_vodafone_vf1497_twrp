@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Inherit from nx510j device
+# Inherit from vf1497 device
 $(call inherit-product, device/vodafone/vf1497/vf1497.mk)
 
 PRODUCT_NAME := cm_vf1497

@@ -86,6 +86,7 @@ TW_INCLUDE_CRYPTO := true
 TW_EXTERNAL_STORAGE_PATH := "/external_sd"
 TW_EXTERNAL_STORAGE_MOUNT_POINT := "external_sd"
 TW_INPUT_BLACKLIST := "accelerometer"
+TW_THEME := portrait_hdpi
 
 #Use dlmalloc instead of jemalloc for mallocs
 MALLOC_IMPL := dlmalloc
